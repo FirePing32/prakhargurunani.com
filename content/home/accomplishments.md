@@ -23,28 +23,38 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2018-10-01"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
-  url: ""
+- title : "2020 China US Young Maker Competition"
+  organization : "Hackster.io"
+  certificate_url : "https://www.hackster.io/prakhargurunani/smart-hand-glove-84e046"
+  date_start : "2020-03-01"
+  date_end : "2020-06-30"
+  description : "Smart Hand Glove - Most Practical US Based Project"
+
+- title : "2019 China US Young Maker Competition"
+  organization : "Hackster.io"
+  certificate_url : "https://www.hackster.io/prakhargurunani/trashware-6549f5"
+  date_start : "2019-03-01"
+  date_end : "2019-06-30"
+  description : "Trashware - Most Practical US Based Project"
+  
+- title : "Young Innovators' Program"
+  organization : "IIT Kharagpur"
+  certificate_url : "https://drive.google.com/file/d/1DpcbvmdhDDmI5ckhNOy4SbmISt0y3n06/view?usp=drivesdk"
+  date_start : "2017-06-15"
+  date_end : "2017-10-27"
+  description : "Project Roverine - Semifinalist"
+
+- title : "8th National Science Film Festival Of India"
+  organization : "Vigyan Prasar"
+  certificate_url : "https://drive.google.com/file/d/1QvpnU_eyME9LuPw-cuOdona7vCMx2vNk/view"
+  date_start : "2017-09-15"
+  date_end : "2018-02-25"
+  description : "Blockchain Technology - Finalist"
+
+- title : "Techniche"
+  organization : "IIT Guwahati"
+  certificate_url : "https://www.hackster.io/prakhargurunani/smart-hand-glove-84e046"
+  date_start : "2018-01-15"
+  date_end : "2018-09-25"
+  description : "Smart Hand Glove: 1st runner-up at Techniche, IIT Guwahati + 50,000 INR cash prize to the team"
 ---

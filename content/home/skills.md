@@ -17,17 +17,29 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 
-  icon: r-project
+  icon: python
   icon_pack: fab
-  name: R
+  name: Python
 - description: 
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
+  icon: js-square
+  icon_pack: fab
+  name: JavaScript
 - description: 
-  icon: camera-retro
+  icon: react
+  icon_pack: fab
+  name: React
+- description: 
+  icon: terminal
   icon_pack: fas
-  name: Photography
+  name: CLI Tools
+- description: 
+  icon: android
+  icon_pack: fab
+  name: Android
+- description: 
+  icon: apple
+  icon_pack: fab
+  name: iOS
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

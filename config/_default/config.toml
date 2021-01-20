@@ -40,6 +40,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   # If only creating events which are talks, we can optimize event URLs for talks.
   # event = "/talk/:slug/"
   # Workaround Hugo publishing taxonomy URLs as plurals - consistently use singular across Academic.
+  post = "/blog/:slug"
   tags = "/tag/:slug/"
   categories = "/category/:slug/"
   # publication_types = "/publication-type/:slug/"
