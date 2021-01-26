@@ -37,7 +37,7 @@ item:
   date_end : "2019-06-30"
   description : "Trashware - Most Practical US Based Project"
   
-- title : "Young Innovators' Program"
+- title : "Young Innovators Program"
   organization : "IIT Kharagpur"
   certificate_url : "https://drive.google.com/file/d/1DpcbvmdhDDmI5ckhNOy4SbmISt0y3n06/view?usp=drivesdk"
   date_start : "2017-06-15"
