@@ -46,15 +46,8 @@ item:
 
 - title : "8th National Science Film Festival Of India"
   organization : "Vigyan Prasar"
-  certificate_url : "https://drive.google.com/file/d/1QvpnU_eyME9LuPw-cuOdona7vCMx2vNk/view"
+  certificate_url : "https://drive.google.com/file/d/1J6ffW7u3UCQKRUrJ6k49TZ5pv-ER_x85/view?usp=sharing"
   date_start : "2017-09-15"
   date_end : "2018-02-25"
   description : "Blockchain Technology - Finalist"
-
-- title : "Techniche"
-  organization : "IIT Guwahati"
-  certificate_url : "https://www.hackster.io/prakhargurunani/smart-hand-glove-84e046"
-  date_start : "2018-01-15"
-  date_end : "2018-09-25"
-  description : "Smart Hand Glove: 1st runner-up at Techniche, IIT Guwahati + 50,000 INR cash prize to the team"
 ---
