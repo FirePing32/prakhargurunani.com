@@ -35,3 +35,7 @@ design:
     <img src="https://res.cloudinary.com/prakhargurunani/image/upload/v1638554637/266ce7aa-4f39-43cf-934e-fdd2642b894f.jpg">
   </div>
 </div>
+
+<script src="https://utteranc.es/client.js" repo="FirePing32/prakhargurunani.com" issue-term="pathname"
+  label="Utterances" theme="dark-blue" crossorigin="anonymous" async>
+  </script>
