@@ -10,25 +10,25 @@ role: 🎯 Focusing
 
 # Organizations/Affiliations to show in About widget
 #organizations:
-#- name: Stanford University
-#  url: https://www.stanford.edu/
+#- name: The LNM Institute of Information Technology
+#- url: https://www.lnmiit.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Python • JS • Open Source • React Native • ExpressJS • CLI tools
+bio: Building the web with ♥️
 
-# Interests to show in About widget
+# Interests  to show in About widget
 interests:
-- Web Apps
-- Android and iOS apps
-- APIs
-- Packages 
+ - Full stack web development
+ - Mobile app development
+ - CLI Tools
+ - DevOps
 
 # Education to show in About widget
 # education:
 #  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
+#    - course: BTech in Electronics and Communication Engineering
+#      institution: The LNM Institute of Information Technology
+#      year: 2021-25
 #  - course: MEng in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2009
@@ -55,7 +55,7 @@ social:
   link: https://www.linkedin.com/in/prakhargurunani/
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
@@ -68,6 +68,6 @@ email: ""
 highlight_name: false
 ---
 
-Hello! I am Prakhar Gurunani and I am a full stack developer. I love to create Software. I spend a lot of time advocating Open Source to people around me.
+Hello! I am Prakhar Gurunani, a 1st year undergraduate student. I find my interest in Open Source, and growing the community around it.
 
-I have an affection for IOT.
+I mainly work in frontend development and design, along with mobile app development.

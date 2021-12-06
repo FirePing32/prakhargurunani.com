@@ -4,11 +4,11 @@ headless: true
 weight: 66
 
 title: Gallery
-subtitle: Some of the photos shot from my phone
 
 design:
   columns: '2'
 ---
+<h5>These photos are shot from my phone.</h5><br>
 
 <div class="row">
   <div class="column">
