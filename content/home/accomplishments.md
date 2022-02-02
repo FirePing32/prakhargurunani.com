@@ -36,18 +36,4 @@ item:
   date_start : "2019-03-01"
   date_end : "2019-06-30"
   description : "Trashware - Most Practical US Based Project"
-  
-- title : "Young Innovators Program"
-  organization : "IIT Kharagpur"
-  certificate_url : "https://drive.google.com/file/d/1DpcbvmdhDDmI5ckhNOy4SbmISt0y3n06/view?usp=drivesdk"
-  date_start : "2017-06-15"
-  date_end : "2017-10-27"
-  description : "Project Roverine - Semifinalist"
-
-- title : "8th National Science Film Festival Of India"
-  organization : "Vigyan Prasar"
-  certificate_url : "https://drive.google.com/file/d/1J6ffW7u3UCQKRUrJ6k49TZ5pv-ER_x85/view?usp=sharing"
-  date_start : "2017-09-15"
-  date_end : "2018-02-25"
-  description : "Blockchain Technology - Finalist"
 ---
