@@ -1,0 +1,11 @@
+# Font style metadata
+name = "sora"
+
+# Optional Google font URL
+google_fonts = "family=Sora"
+
+# Font families
+heading_font = "Sora"
+body_font = "Sora"
+nav_font = "Sora"
+mono_font = "Sora"
