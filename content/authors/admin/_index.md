@@ -70,4 +70,4 @@ highlight_name: false
 
 Hello! I am Prakhar Gurunani, a 1st year undergraduate student. I find my interest in Open Source, and growing the community around it.
 
-I mainly work in frontend development and design, along with mobile app development.
+I mainly work in backend development, building useful tools. Recently, I have been exploring Web3 and Solidity development.
