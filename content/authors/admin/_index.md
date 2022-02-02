@@ -6,7 +6,7 @@ title: Prakhar Gurunani
 superuser: true
 
 # Role/position/tagline
-role: 🎯 Focusing
+role: Bits Pilani
 
 # Organizations/Affiliations to show in About widget
 #organizations:
@@ -18,23 +18,23 @@ bio: Building the web with ♥️
 
 # Interests  to show in About widget
 interests:
- - Full stack web development
- - Mobile app development
+ - Backend development
+ - Solidity development
  - CLI Tools
  - DevOps
 
 # Education to show in About widget
 # education:
-#  courses:
-#    - course: BTech in Electronics and Communication Engineering
-#      institution: The LNM Institute of Information Technology
-#      year: 2021-25
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+#   courses:
+#   - course: PhD in Artificial Intelligence
+#     institution: Stanford University
+#     year: 2012
+#   - course: MEng in Artificial Intelligence
+#     institution: Massachusetts Institute of Technology
+#     year: 2009
+#   - course: BSc in Artificial Intelligence
+#     institution: Massachusetts Institute of Technology
+#     year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
