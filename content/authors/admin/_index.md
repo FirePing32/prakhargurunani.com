@@ -18,10 +18,8 @@ bio: Building the web with ♥️
 
 # Interests  to show in About widget
 interests:
- - Backend development
- - Solidity development
- - CLI Tools
- - DevOps
+ - <a href="/gallery">Photography</a>
+ - Swimming & Badminton
 
 # Education to show in About widget
 # education:
@@ -68,6 +66,6 @@ email: ""
 highlight_name: false
 ---
 
-Hello! I am Prakhar Gurunani, a 1st year undergraduate student. I find my interest in Open Source, and growing the community around it.
+Hello! I am Prakhar Gurunani, a 1st year undergraduate student. I find my interest in Open Source, and growing the community around it. I am mainly into backend development, building useful tools. Recently, I have been exploring Web3 and Solidity development.
 
-I mainly work in backend development, building useful tools. Recently, I have been exploring Web3 and Solidity development.
+This is my blog/portfolio. Here, I share my experiences with developing different tools for the community, as well as my learnings in my open source development journey.
