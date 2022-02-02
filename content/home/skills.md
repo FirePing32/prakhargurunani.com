@@ -16,36 +16,24 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 
+- description:
   icon: python
   icon_pack: fab
   name: Python
-- description: 
+- description:
   icon: js-square
   icon_pack: fab
   name: JavaScript
-- description: 
-  icon: react
+- description:
+  icon: ethereum
   icon_pack: fab
-  name: React
-- description: 
-  icon: terminal
-  icon_pack: fas
-  name: CLI Tools
-- description: 
-  icon: android
-  icon_pack: fab
-  name: Android
-- description: 
-  icon: apple
-  icon_pack: fab
-  name: iOS
+  name: Solidity
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
 #  name: "Emojiness"
-#  description: "100%"  
+#  description: "100%"
 
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
