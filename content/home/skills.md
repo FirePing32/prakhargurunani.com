@@ -28,6 +28,18 @@ feature:
   icon: ethereum
   icon_pack: fab
   name: Solidity
+- description:
+  icon: react
+  icon_pack: fab
+  name: React
+- description:
+  icon: android
+  icon_pack: fab
+  name: Android
+- description:
+  icon: apple
+  icon_pack: fab
+  name: iOS
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
