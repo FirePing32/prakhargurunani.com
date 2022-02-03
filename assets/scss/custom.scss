@@ -1,25 +1,52 @@
-#profile a {
-    color: #000000
+#profile a,
+.featurette-icon {
+  color: #000000 !important;
 }
 
-.dark h1, .dark h2, .dark h3, .dark h4, .dark h5, .dark h6 {
-    color: #ffffff
+.dark h1,
+.dark h2,
+.dark h3,
+.dark h4,
+.dark h5,
+.dark h6,
+.dark .featurette-icon,
+.dark .page-subtitle,
+.dark #profile a {
+  color: #ffffff !important;
 }
 
-.dark span {
-    color: #ffffff
+.dark .home-section-bg,
+.dark .page-footer,
+.article .dark,
+.dark #navbar-main,
+body.dark,
+.dark #search,
+.dark .search-header {
+  background: hsl(210deg, 30%, 8%) !important;
 }
 
-.dark .page-subtitle {
-    color: #ffffff
+.dark .card,
+.dark .form-control,
+.dropdown-menu,
+.dropdown-menu > a,
+.dark #search-query {
+  background: hsl(210deg, 22%, 15%) !important;
 }
 
-.dark a {
-    color: rgb(142, 159, 248)
+.dark mark,
+.dark .mark {
+  background-color: #8797ebd1;
 }
 
-.dark i {
-    color: rgb(142, 159, 248)
+mark,
+.mark {
+  background-color: #3f51b56e;
+}
+
+.dark a,
+.dark .btn-outline-primary,
+a.nav-link.active > span {
+  color: rgb(142, 159, 248);
 }
 
 .row {
