@@ -266,7 +266,7 @@ plugins_css = ["custom"]
 ## Marketing
 ############################
 [marketing]
-    google_analytics = "G-EG9XKNH6NR"
+    google_analytics = "UA-125087688-1"
     google_tag_manager = ""
 
 ############################
