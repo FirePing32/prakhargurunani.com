@@ -23,6 +23,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- title : "Google Summer of Code 2022"
+  organization : "52°North"
+  certificate_url : "https://summerofcode.withgoogle.com/programs/2022/projects/WQM9F5qd"
+  date_start : "2022-05-20"
+  date_end : "2022-09-12"
+  description : "Python client for OGC Maps API"
+
 - title : "2020 China US Young Maker Competition"
   organization : "Hackster.io"
   certificate_url : "https://www.hackster.io/prakhargurunani/smart-hand-glove-84e046"
