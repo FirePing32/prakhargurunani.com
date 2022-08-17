@@ -19,30 +19,27 @@ design:
     <img src="https://res.cloudinary.com/prakhargurunani/image/upload/v1638554638/7671e83d-7620-42bf-b274-2fb0c169fd3d.jpg">
     <img src="https://res.cloudinary.com/prakhargurunani/image/upload/v1646190143/IMG_20220301_093953.jpg">
     <img src="https://res.cloudinary.com/prakhargurunani/image/upload/v1646190128/IMG_20220301_175845.jpg">
-  </div>
-  <div class="column">
-    <img src="https://res.cloudinary.com/prakhargurunani/image/upload/v1638554638/IMG_20211105_201546.jpg">
     <img src="https://res.cloudinary.com/prakhargurunani/image/upload/v1638554640/IMG_20210601_205043_346.jpg">
     <img src="https://res.cloudinary.com/prakhargurunani/image/upload/v1638554639/IMG_20211015_001800.jpg">
     <img src="https://res.cloudinary.com/prakhargurunani/image/upload/v1646189864/IMG_20220301_185239.jpg">
-    <img src="https://res.cloudinary.com/prakhargurunani/image/upload/v1646189946/IMG_20220301_175430.jpg">
   </div>
   <div class="column">
-    <img src="https://res.cloudinary.com/prakhargurunani/image/upload/v1638554640/IMG_20210626_211613.jpg">
+    <img src="https://res.cloudinary.com/prakhargurunani/image/upload/v1660745274/IMG_20220721_200136.jpg">
+    <img src="https://res.cloudinary.com/prakhargurunani/image/upload/v1660745275/IMG_20220720_194117.jpg">
+    <img src="https://res.cloudinary.com/prakhargurunani/image/upload/v1660745276/IMG_20220720_194323.jpg">
+    <img src="https://res.cloudinary.com/prakhargurunani/image/upload/v1638554638/IMG_20211105_201546.jpg">
+  </div>
+  <div class="column">
     <img src="https://res.cloudinary.com/prakhargurunani/image/upload/v1638554639/IMG_20210601_201005_402.jpg">
     <img src="https://res.cloudinary.com/prakhargurunani/image/upload/v1638554639/IMG_20211202_102218.jpg">
-    <img src="https://res.cloudinary.com/prakhargurunani/image/upload/v1640196130/IMG_20211220_204145.jpg">
-    <img src="https://res.cloudinary.com/prakhargurunani/image/upload/v1646189997/IMG_20220301_185733.jpg">
+    <img src="https://res.cloudinary.com/prakhargurunani/image/upload/v1646189946/IMG_20220301_175430.jpg">
+    <img src="https://res.cloudinary.com/prakhargurunani/image/upload/v1640196627/IMG_20211222_233611.jpg">
   </div>
   <div class="column">
-    <img src="https://res.cloudinary.com/prakhargurunani/image/upload/v1638554640/IMG_20210601_221226.jpg">
+    <img src="https://res.cloudinary.com/prakhargurunani/image/upload/v1640196130/IMG_20211220_204145.jpg">
     <img src="https://res.cloudinary.com/prakhargurunani/image/upload/v1638554639/IMG_20210601_205555_107.jpg">
     <img src="https://res.cloudinary.com/prakhargurunani/image/upload/v1638554638/bg9vf0.jpg">
     <img src="https://res.cloudinary.com/prakhargurunani/image/upload/v1638554637/266ce7aa-4f39-43cf-934e-fdd2642b894f.jpg">
-    <img src="https://res.cloudinary.com/prakhargurunani/image/upload/v1640196627/IMG_20211222_233611.jpg">
-    <img src="https://res.cloudinary.com/prakhargurunani/image/upload/v1640196627/IMG_20211209_192953.jpg">
-    <img src="https://res.cloudinary.com/prakhargurunani/image/upload/v1646190231/IMG_20220226_143911181_HDR.jpg">
-    <img src="https://res.cloudinary.com/prakhargurunani/image/upload/v1646190111/IMG_20220301_095819.jpg">
   </div>
 </div>
 
