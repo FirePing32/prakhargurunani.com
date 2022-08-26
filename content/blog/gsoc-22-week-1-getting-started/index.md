@@ -24,7 +24,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["ogc-maps-api-client"]
 ---
 
 _This day marks the end of the first week of the coding period. The past week mostly involved setting up the codebase and building the helper functions, which is summarized in brief below._
