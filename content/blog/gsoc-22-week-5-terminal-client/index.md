@@ -44,7 +44,7 @@ class Context(object):
 pass_context = click.make_pass_decorator(Context, ensure=True)
 ```
 
-A `click.MultiCommand` can be used to process custom multiple commands. An class object initialized with this argument can be passed inside `@click.command(cls=CLASS_NAME)`.
+A `click.MultiCommand` can be used to process custom multiple commands. A class object initialized with this argument can be passed inside `@click.command(cls=CLASS_NAME)`.
 
 ```python
 class OGCmapsCLI(click.MultiCommand):
