@@ -6,7 +6,7 @@ title: Prakhar Gurunani
 superuser: true
 
 # Role/position/tagline
-role: Bits Pilani
+role: BITS Pilani
 
 # Organizations/Affiliations to show in About widget
 #organizations:
@@ -66,6 +66,6 @@ email: ""
 highlight_name: false
 ---
 
-Hello! I am Prakhar Gurunani, a 1st year undergraduate student. I find my interest in Open Source, and growing the community around it. I am mainly into backend development, building useful tools. Recently, I have been exploring Web3 and Solidity development.
+Hello! I am Prakhar Gurunani, a 2nd year undergraduate student. I find my interest in Open Source, and growing the community around it. I am mainly into backend development, building useful tools.
 
 This is my blog/portfolio. Here, I share my experiences with developing different tools for the community, as well as my learnings in my open source development journey.
