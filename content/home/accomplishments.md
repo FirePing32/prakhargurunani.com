@@ -23,6 +23,12 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- title : "Software Engineer"
+  organization : "Flippy"
+  date_start : "2023-01-06"
+  date_end : "2023-04-30"
+  description : "Internship"
+
 - title : "Google Summer of Code 2022"
   organization : "52°North"
   certificate_url : "https://summerofcode.withgoogle.com/programs/2022/projects/WQM9F5qd"
@@ -36,11 +42,4 @@ item:
   date_start : "2020-03-01"
   date_end : "2020-06-30"
   description : "Smart Hand Glove - Most Practical US Based Project"
-
-- title : "2019 China US Young Maker Competition"
-  organization : "Hackster.io"
-  certificate_url : "https://www.hackster.io/prakhargurunani/trashware-6549f5"
-  date_start : "2019-03-01"
-  date_end : "2019-06-30"
-  description : "Trashware - Most Practical US Based Project"
 ---
