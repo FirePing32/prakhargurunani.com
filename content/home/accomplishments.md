@@ -25,13 +25,14 @@ date_format: Jan 2006
 item:
 - title : "Software Engineer"
   organization : "Flippy"
+  certificate_url : "https://drive.google.com/file/d/1KLB0Dq1UvJcE-VQBd_DBmh3RnryfrUOe/view?usp=sharing"
   date_start : "2023-01-06"
   date_end : "2023-04-30"
   description : "Internship"
 
 - title : "Google Summer of Code 2022"
   organization : "52°North"
-  certificate_url : "https://summerofcode.withgoogle.com/programs/2022/projects/WQM9F5qd"
+  certificate_url : "https://summerofcode.withgoogle.com/archive/2022/projects/WQM9F5qd"
   date_start : "2022-05-20"
   date_end : "2022-09-12"
   description : "Python client for OGC Maps API"
