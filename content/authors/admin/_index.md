@@ -66,6 +66,6 @@ email: ""
 highlight_name: false
 ---
 
-Hello! I am Prakhar Gurunani, a 2nd year undergraduate student. I find my interest in Open Source, and growing the community around it. I am mainly into backend development, building useful tools.
+Hello! I am Prakhar Gurunani, an undergraduate student at BITS Pilani. I find my interest in Open Source, and growing the community around it. I am mainly into backend development, building useful tools.
 
 This is my blog/portfolio. Here, I share my experiences with developing different tools for the community, as well as my learnings in my open source development journey.
