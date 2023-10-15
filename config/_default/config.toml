@@ -10,7 +10,7 @@ title = "Prakhar Gurunani"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://www.prakhargurunani.com/"
+baseurl = "https://prakhargurunani.com/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
