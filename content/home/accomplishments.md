@@ -36,11 +36,4 @@ item:
   date_start : "2022-05-20"
   date_end : "2022-09-12"
   description : "Python client for OGC Maps API"
-
-- title : "2020 China US Young Maker Competition"
-  organization : "Hackster.io"
-  certificate_url : "https://www.hackster.io/prakhargurunani/smart-hand-glove-84e046"
-  date_start : "2020-03-01"
-  date_end : "2020-06-30"
-  description : "Smart Hand Glove - Most Practical US Based Project"
 ---
