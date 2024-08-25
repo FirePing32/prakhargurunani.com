@@ -31,7 +31,7 @@ As a pre-final year undergraduate student at BITS Pilani, I had the incredible o
 
 ## Project Overview
 
-MetaCall, an innovative polyglot runtime, allows developers to write code in multiple programming languages within the same project. My GSoC project aimed to extend MetaCall's cross-platform compatibility by creating a robust MacOS distributable. This involved developing a comprehensive build script, integrating portable dependencies into the CI pipeline, and ensuring seamless functionality across major MacOS versions.
+[MetaCall](https://metacall.io), an innovative polyglot runtime, allows developers to write code in multiple programming languages within the same project. My GSoC project aimed to extend MetaCall's cross-platform compatibility by creating a robust MacOS distributable. This involved developing a comprehensive build script, integrating portable dependencies into the CI pipeline, and ensuring seamless functionality across major MacOS versions.
 
 ## Key Achievements
 
