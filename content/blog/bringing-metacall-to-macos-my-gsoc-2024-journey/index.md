@@ -6,8 +6,8 @@ summary: "This post describes the work I did as a contributor for MetaCall durin
 authors: ["Prakhar Gurunani"]
 tags: ["C/C++", "CI/CD", "Cmake", "Bash", "Homebrew"]
 categories: ["Tech"]
-date: 2024-08-26
-lastmod: 2024-08-26
+date: 2024-08-25
+lastmod: 2024-08-25
 featured: true
 draft: false
 
